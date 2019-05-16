@@ -1,0 +1,23 @@
+.card {
+margin-top: 2px;
+}
+
+.card-deck {
+    background: rgb(243, 243, 243);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    border: 1 solid black;
+    border-radius: .25rem;
+}
+
+.footer {
+    margin-top: 1rem;
+}
+
+.fab {
+    font-size: 3em; 
+    color: rgb(93, 93, 93);
+}
